@@ -11,4 +11,4 @@ Set up your environment variables for `LANGCHAIN_API_KEY` and `GROQ_API_KEY`. Yo
 3. Sentiment analysis of both the recovery agent and the borrower.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE.txt).
